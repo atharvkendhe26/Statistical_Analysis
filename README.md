@@ -114,14 +114,14 @@ Hypothesis Testing :-
 
 **📌 Conclusion**
 
-# 1. Confidence Interval (Inferential Statistics)
+**1. Confidence Interval (Inferential Statistics)**
 
 After completing the descriptive analysis, the project demonstrates the concept of 95% Confidence Interval (CI) using multiple sample datasets, 
 including smartphone screen time, delivery time, and student study hours. The confidence interval was calculated using the sample mean, standard deviation, 
 standard error, and critical t-value to estimate the range within which the true population mean is expected to lie. This section illustrates how inferential 
 statistics enable analysts to draw reliable conclusions about an entire population based on sample data.
 
-# 2. Hypothesis Testing
+**2. Hypothesis Testing**
 
 The project further applies One-Sample Hypothesis Testing to practical business scenarios such as engine assembly time and baking time. 
 For each case, the Null Hypothesis (H₀) and Alternative Hypothesis (H₁) were formulated, followed by the calculation of the test statistic 
