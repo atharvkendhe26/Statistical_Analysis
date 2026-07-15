@@ -48,6 +48,7 @@ The notebook contains multiple datasets to demonstrate different statistical con
 * SciPy (Statistics)
 
 **📊 Statistical Techniques Applied**
+
 Descriptive Statistics :-
 * Mean
 * Median
@@ -55,30 +56,34 @@ Descriptive Statistics :-
 * Variance
 *Standard Deviation
 *Skewness
+
 Data Exploration :-
 * Data Inspection
 * Distribution Analysis
 * Histogram Analysis
 * Data Visualization
+  
 Outlier Detection :-
 * Boxplot Analysis
 * Identification of Extreme Values
 * Outlier Interpretation
+  
 Correlation Analysis :-
 * Correlation Matrix
 * Heatmap
 * Relationship Analysis
+  
 Inferential Statistics :-
 * Confidence Interval Estimation
 * Standard Error
 * Margin of Error
 * Critical t-value
+  
 Hypothesis Testing :-
 * One Sample t-Test
 * Null Hypothesis
 * Alternative Hypothesis
 * Test Statistic
-* Critical Value Comparison
 * Statistical Decision Making
   
 **✨ Key Features**
@@ -94,6 +99,7 @@ Hypothesis Testing :-
 * Professional Data Visualization
 
 **📊 Key Insights (Petrol Consumption Dataset)**
+
 * The Petrol Consumption dataset consists of 48 observations and 5 numerical variables, providing a suitable dataset for statistical exploration and analysis.
 * The average Petrol Consumption was found to be approximately 576.77, while the median value was 568.50, indicating that the consumption values are relatively
   balanced with only slight variation.
@@ -107,16 +113,18 @@ Hypothesis Testing :-
   making the statistical findings easier to interpret.
 
 **📌 Conclusion**
-#1. Confidence Interval (Inferential Statistics)
+
+# 1. Confidence Interval (Inferential Statistics)
 
 After completing the descriptive analysis, the project demonstrates the concept of 95% Confidence Interval (CI) using multiple sample datasets, 
 including smartphone screen time, delivery time, and student study hours. The confidence interval was calculated using the sample mean, standard deviation, 
 standard error, and critical t-value to estimate the range within which the true population mean is expected to lie. This section illustrates how inferential 
 statistics enable analysts to draw reliable conclusions about an entire population based on sample data.
 
-#2. Hypothesis Testing
+# 2. Hypothesis Testing
 
-The project further applies One-Sample Hypothesis Testing to practical business scenarios such as engine assembly time and baking time. For each case, 
-the Null Hypothesis (H₀) and Alternative Hypothesis (H₁) were formulated, followed by the calculation of the test statistic and comparison with the critical value. 
-Based on the statistical evidence, decisions were made to either accept or reject the null hypothesis. This demonstrates how hypothesis testing is used in real-world 
-industries to validate assumptions and support objective, data-driven decision-making.
+The project further applies One-Sample Hypothesis Testing to practical business scenarios such as engine assembly time and baking time. 
+For each case, the Null Hypothesis (H₀) and Alternative Hypothesis (H₁) were formulated, followed by the calculation of the test statistic 
+and comparison with the critical value. 
+Based on the statistical evidence, decisions were made to either accept or reject the null hypothesis. 
+This demonstrates how hypothesis testing is used in real-world industries to validate assumptions and support objective, data-driven decision-making.
